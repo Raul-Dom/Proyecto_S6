@@ -13,36 +13,21 @@ The goal of this project is to practice:
 
 ---
 
-## 📊 Features
+## Features
 
 The application includes:
 
-### ✔ Header  
+### Header  
 A main title describing the dashboard.
 
-### ✔ Histogram  
+### Histogram  
 A Plotly interactive histogram showing the distribution of vehicle odometer readings.
 
-### ✔ Scatter Plot  
+### Scatter Plot  
 An interactive scatter plot showing the relationship between vehicle odometer and price.
 
-### ✔ Buttons  
+### Buttons  
 Two buttons that allow users to display the charts on demand.
-
----
-
-## 🧰 Technologies Used
-
-- Python  
-- Pandas  
-- Streamlit  
-- Plotly  
-- Git + GitHub  
-- Render (for deployment)
-
----
-
-## 🚀 How to run locally
 
 ## 🌐 Live App
 https://proyecto-s7-vehicles-dashboard.onrender.com/
