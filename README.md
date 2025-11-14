@@ -1,4 +1,4 @@
-# Proyecto_S6
+# Proyecto_S7
 # Vehicle Sales Dashboard
 
 This is a simple Streamlit web application created as part of the TripleTen Data Science Bootcamp (Sprint 7: Software Development Tools).
