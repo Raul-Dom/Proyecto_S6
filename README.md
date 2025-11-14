@@ -44,3 +44,5 @@ Two buttons that allow users to display the charts on demand.
 
 ## 🚀 How to run locally
 
+## 🌐 Live App
+https://proyecto-s7-vehicles-dashboard.onrender.com/
